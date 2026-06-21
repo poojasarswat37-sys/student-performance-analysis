@@ -39,6 +39,10 @@ This project analyzes student performance using Python and Seaborn to understand
 - Pie Chart
 - Scatter Plot
 
+- ## Requirements
+```bash
+pip install pandas numpy matplotlib seaborn
+
 ## Author
 Pooja Saraswat
 ECE Student
